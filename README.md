@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem Vindo ao meu perfil 🤍
 
-<!--
-**vitorialinskk/vitorialinskk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é **Vitória Caroline**
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na liguagem JavaScript
+- Utilizo esse espço para a organização dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você pode entrar em contato comigo 📧
+
+  0000108688064xsp@al.educacao.sp.gov.br
+
+ ![](https://media1.tenor.com/m/qeJ4b1t6XhQAAAAC/miau-cat.gif)
+
