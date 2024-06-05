@@ -1,10 +1,10 @@
 ## Bem-Vindo ao meu perfil 🤍
 
 
-Meu nome é **Vitória Caroline**
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na liguagem JavaScript
-- Utilizo esse espço para a organização dos meu projetos desenvolvidos
+Meu nome é **Vitória Caroline**.
+- Estou estudando na [Alura](https://www.alura.com.br);
+- Estou me desenvolvendo na liguagem JavaScript;
+- Utilizo esse espço para a organização dos meu projetos desenvolvidos;
 
   ## Você pode entrar em contato comigo 📧
 
